@@ -5,3 +5,17 @@ body {
     background-color: black;
     color: white;
 }
+
+/* Cambio del color del Navbar de transparente a celeste */
+
+.transparent.navscroll {
+    background-color: #0dcaf0;
+    color: white;
+}
+
+/* Tiempo de ejecución del cambio de color fijado a 500 milisegundos*/
+
+.transparent {
+    background-color: transparent;
+    transition: background-color 500ms, color 500ms;
+}
