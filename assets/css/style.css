@@ -1,0 +1,7 @@
+/* Se configura tipografía y color de fondo para el body del proyecto*/
+
+body {
+    font-family: 'Nunito Sans';
+    background-color: black;
+    color: white;
+}
